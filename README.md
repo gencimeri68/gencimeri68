@@ -5,3 +5,4 @@ My jorney as a front-end developer began when i realized that i could combine my
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gencimeri68)](https://github.com/anuraghazra/github-readme-stats)
+![github](https://user-images.githubusercontent.com/79307521/235300021-12e41ec8-a372-4a69-ab79-3c3151239718.png)
